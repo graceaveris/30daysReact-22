@@ -1,8 +1,8 @@
-**Day Twenty Two - 30 days of React challenge - "Post-it note" (before refractoring)##
+**Day Twenty Two - 30 days of React challenge - "Post-it note" (before refractoring)**
 
-A todo ist style react.js app, using post it notes interface. Full crud functionality, create + update + delete.
+A todo list style react.js app, using post it notes interface. Full crud functionality, create + update + delete.
 
-##Concepts Explored:##
+**Concepts Explored:**
 
 - Full CRUD functionality
 - Creating a fully functioning app.
