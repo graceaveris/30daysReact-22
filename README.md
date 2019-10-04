@@ -2,7 +2,7 @@
 
 A todo list style react.js app, using post it notes interface. Full crud functionality, create + update + delete.
 
-**Concepts Explored:**
+**Concepts Explored:** 
 
 - Full CRUD functionality
 - Creating a fully functioning app.
